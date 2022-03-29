@@ -21,6 +21,7 @@
 		<ul>
 			<?php
 				echo '<li> <a href=./index.php?page=infos&lang=fr>Infos</a> </li>';
+				echo '<li> <a href=./index.php?page=program>Program</a> </li>';
 				echo '<li> <a href=./index.php?page=access&lang=fr>Accès</a> </li>';
 			?>
 		</ul>
@@ -35,6 +36,7 @@
 			<ul>
 				<?php
 				echo '<li> <a href=./index.php?page=abstract&lang=fr>Résumés</a> </li>';
+				echo '<li> <a href=./index.php?page=program>Program</a> </li>';
 				echo '<li> <a href=./index.php?page=contact&lang=fr>Contact</a> </li>';
 				?>
 
