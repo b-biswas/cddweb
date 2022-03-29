@@ -21,7 +21,7 @@
 				PhD Student Conference
 			</h1>
 			<h2>
-				October 29 - 30 2020
+				13 to 15 April 2022
 			</h2>
 		</div>
 	</div>

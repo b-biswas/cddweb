@@ -3,7 +3,7 @@
 <h3 class="major">Deadlines</h3>
 
 <p>
-    The Congrès des Doctorants (CDD) will held on <strong>29 and 30 October 2020</strong>.
+    The Congrès des Doctorants (CDD) will held on <strong>13 to 15 April</strong>.
 </p>
 
 <p>
