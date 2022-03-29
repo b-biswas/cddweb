@@ -3,26 +3,20 @@
 Since 1993, <strong>the STEP'UP doctoral school has organized the “Congrès Des Doctorants” (CDD)</strong>, 
 a yearly conference to promote the research of PhD students from the Institut de Physique du Globe de Paris (IPGP), 
 the University Paris Diderot (UPD), the École Normale Supérieure (ENS) and the University Pierre et Marie Curie (UPMC). 
-This congress features posters presentations from 1st and 2nd year PhD students, and talks from 3rd year PhD students 
-and foreign students from other European universities. The congress is organised by the 1st year PhD students from both 
-components of the doctoral school (Environment Sciences and the Physics of the Universe). This vastly increases the scope 
-of the scientific topics covered and illustrates the interdisciplinary of the STEP’UP doctoral school. 
+The congress is organised by the 1st year PhD students from both 
+components of the doctoral school (Environment Sciences and the Physics of the Universe) and will feature vulgarization talks
+from reseachers along with posters and presentations from Ph.D. students of STEP'UP and other invited students.
 The goal of this conference is to establish links between students, researchers and professionals in the geosciences and physics of the universe fields. 
-The <strong>2020 edition will be held exceptionally at IPGP on 29 and 30 October.</strong></p>
+The <strong>2022 edition will be held at IPGP between 13 and 15 April.</strong></p>
 
 <h3>
-2 days schedule
+3 days schedule
 </h3>
 
 <p>
-First day will be dedicated to employment opportunities, 
-with meetings and talks from industry and academia professionals 
-and training sessions to learn to promote students' skills. 
-The morning of the second day will focus on poster 
-presentations and the afternoon will be dedicated on presentations 
-from leading researchers on the topic <strong>“Exoplanet”</strong>. 
-The end of the conference will be followed by a reception organized 
-by the Hekla association, to allow all participants to share food and drinks together.</p>
+A short description of day to day program will be added soon.
+</p>
+
 <h3>
 How to participate ?
 </h3>
