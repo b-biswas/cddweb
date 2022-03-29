@@ -1,0 +1,4 @@
+AuthName "Protected admin page"
+AuthType Basic
+AuthUserFile "/var/www/html/cdd/admin/.htpasswd"
+Require valid-user

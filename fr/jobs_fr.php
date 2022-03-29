@@ -1,3 +1,3 @@
 <p>
-	Voici quelques information au sujet de la <strong>journée du travail</strong>.
+	Ici, vous trouverez prochainement des informations au sujet de la <strong>journée emploi</strong>.
 </p>

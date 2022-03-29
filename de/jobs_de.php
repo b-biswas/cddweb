@@ -1,3 +1,3 @@
 <p>
-	Work in progress!
+	Hier finden Sie Informationen über <strong>den Arbeitstag</strong> in Kürze.
 </p>
