@@ -12,7 +12,7 @@
 				Congrès des doctorants
 			</h1>
 			<h2>
-				29 - 30 octobre 2020
+				13 - 15 Avril 2022
 			</h2>
 		</div>
 	</div>
