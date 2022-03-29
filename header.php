@@ -8,8 +8,6 @@
 			<?php echo '<a href=index.php?page='.$_GET['page'].'&lang=en>En</a>' ?>
 			&#x2502;
 			<?php echo '<a href=index.php?page='.$_GET['page'].'&lang=fr>Fr</a>' ?>
-			&#x2502;
-			<?php echo '<a href=index.php?page='.$_GET['page'].'&lang=de>De</a>' ?>
 		</div>
 		<?php
 	}
@@ -20,8 +18,6 @@
 			<a href="index.php?page=home&lang=en">En</a>
 			&#x2502;
 			<a href="index.php?page=home&lang=fr">Fr</a>
-			&#x2502;
-			<a href="index.php?page=home&lang=de">De</a>
 		</div>
 		<?php
 	}
