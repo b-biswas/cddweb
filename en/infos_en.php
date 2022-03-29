@@ -7,12 +7,9 @@
 </p>
 
 <p>
-    The volunteer PhD students of the ED STEP'UP can participate with a poster presentation on October 30. 
-    Further information will be sent in <strong> September </strong>.
-</p>
-
-<p>
-    Don't forget to include the <strong>logos</strong> of the Doctoral School and of your laboratory on your poster.
+    Registration and abstract submission is now closed.
+    If your abstract was accepted, you should have received an allotted time slot for your presentation. 
+    Please contact us if you have not been contacted yet.
 </p>
 
 <!-- <h3 class="major">Abstract</h3>

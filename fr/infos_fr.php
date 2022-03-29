@@ -7,9 +7,9 @@
 </p>
 
 <p>
-	Les doctorants de l'ED STEP'UP qui le souhaitent peuvent participer à cette version 
-	exceptionnelle du CDD via un poster le vendredi 30 octobre. 
-	Plus d'informations à ce sujet seront disponibles en <strong>septembre</strong>.
+	Les inscriptions et la soumission des résumés sont maintenant terminées.
+    Si votre résumé a été accepté, vous devriez avoir reçu un créneau horaire pour votre présentation. 
+    Veuillez nous contacter si vous n'avez pas encore été contacté.
 </p>
 
 <p>
