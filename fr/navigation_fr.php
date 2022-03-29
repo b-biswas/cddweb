@@ -2,7 +2,7 @@
 	
 	<div class="logo">
 		<?php
-			echo '<a class="imagea" href=index.php?lang=fr><img src="Images/logos/logoCDD_NB.png"></a>';
+			echo '<a class="imagea" href=index.php?lang=fr><img src="Images/logos/logoCDD_NB.jpg"></a>';
 		?>
 	</div>
 
