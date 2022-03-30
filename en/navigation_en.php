@@ -18,7 +18,7 @@
 	<div class="content">
 		<div class="inner">
 			<h1>
-				PhD Student Conference
+				Congrès des Doctorants
 			</h1>
 			<h2>
 				13 to 15 April 2022

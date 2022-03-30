@@ -7,9 +7,9 @@
 </p>
 
 <p>
-    Registration and abstract submission is now closed.
+    Registration and abstract submission is now closed. 
     If your abstract was accepted, you should have received an allotted time slot for your presentation. 
-    Please contact us if you have not been contacted yet.
+    Please contact us for any assistance. 
 </p>
 
 <!-- <h3 class="major">Abstract</h3>

@@ -7,9 +7,9 @@
 </p>
 
 <p>
-	Les inscriptions et la soumission des résumés sont maintenant terminées.
-    Si votre résumé a été accepté, vous devriez avoir reçu un créneau horaire pour votre présentation. 
-    Veuillez nous contacter si vous n'avez pas encore été contacté.
+	Les inscriptions et la soumission des résumés sont maintenant terminées. 
+	Si votre résumé a été accepté, vous devriez avoir reçu un créneau horaire pour votre présentation. 
+	Veuillez nous contacter pour toute assistance. 
 </p>
 
 <p>
