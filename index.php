@@ -5,7 +5,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="main.css" />
-		<title>CdD 2020</title>
+		<title>CDD 2022</title>
 		<link rel="shortcut icon" type="image/png" href="Images/favicon.png"/>
 		<noscript><link rel="stylesheet" href="noscript.css" /></noscript>
 	</head>
