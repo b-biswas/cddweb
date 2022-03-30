@@ -9,7 +9,8 @@
 		}
 		else
 		{
-			echo '<a class="imagea" href=index.php><img src="Images/logos/logoCDD_NB.jpg"></a>';
+			echo '<a class="imagea" href=index.php?lang=en><img src="Images/logos/logoCDD_NB.png"></a>';
+
 		}
 		?>
 
