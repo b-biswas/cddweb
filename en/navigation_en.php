@@ -5,7 +5,7 @@
 		<?php
 		if(array_key_exists('lang', $_GET))
 		{
-			echo '<a class="imagea" href=index.php?lang=' . $_GET['lang'] . '><img src="Images/logos/logoCDD_NB.jpg"></a>';
+			echo '<a class="imagea" href=index.php?lang=' . $_GET['lang'] . '><img src="Images/logos/logoCDD_NB.png"></a>';
 		}
 		else
 		{
