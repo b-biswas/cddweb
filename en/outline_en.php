@@ -152,7 +152,7 @@ sites?”<br>
 14h – 17h Presentations – Amphitheatre<br>
 </h3>
 <strong>Konstantin Leyde</strong>, “Current and future constraints on cosmology and modified gravitational wave 
-<strong>friction from binary black holes”<br>
+friction from binary black holes”<br>
 <strong>Gaspard Farge</strong>, “From the pore scale to the subduction scale -- how transient fluid processes shape 
 microseismicity patterns”<br>
 <strong>Simon Bufféral</strong>, “Investigating the dynamics of the post-alpine dismantling in the Peloponnese 
