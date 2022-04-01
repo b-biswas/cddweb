@@ -60,7 +60,7 @@ ongoing Seismo-Volcanic Crisis” <br>
 Thursday 14th of April – Macro
 </h2>
 9h30 – Breakfast <br>
-10h – Sara Maluebre (LPNHE) – <br>
+10h – <strong>Sara Maluebre (LPNHE)</strong> – <br>
 <br>
 <h3>
 10h30 – 12h30 Poster session - Hallway <br>
@@ -119,7 +119,7 @@ interactions beneath Lucky Strike volcano, Mid-Atlantic Ridge (MAR)”<br>
 Friday 15th of April – Micro to macro
 </h2>
 9h30 – Breakfast <br>
-10h – Samuel Abiven (ENS), “Carbon cycle in terrestrial ecosystems across scales - why scaling rarely 
+10h – <strong>Samuel Abiven</strong> (ENS), “Carbon cycle in terrestrial ecosystems across scales - why scaling rarely 
 works” – Amphitheatre <br>
 <br>
 <h3>
