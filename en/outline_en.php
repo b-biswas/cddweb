@@ -2,7 +2,7 @@
 <h3>
 Wednesday 13th of April – Micro
 </h3>
-9h30	- Breakfast
+9h30	- Breakfast <br>
 10h 	- François Vannucci (LPNHE), “From the electron to the Higgs boson” – Amphitheatre
 10h30 	- 12h30 Poster session - Hallway
 Gang Lin, “A new pore pressure measurement device for rock in the laboratory”
