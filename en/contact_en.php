@@ -8,7 +8,7 @@ if(!empty($_SESSION))
 
 	#$sendToButton = array('foreign' => 'Foreign students', 'job' => 'Job day', 'program' => 'Program', 'logistics' => 'Logistics', 'communication' => 'Communication', 'web' => 'Web');
 
-    $sendToEmail = array('web' => 'gatelet@apc.in2p3.fr)'#,teyssendier@ipgp.fr,leo.petit@ens.fr,sahmedma@lpnhe.in2p3.fr,laag@ipgp.fr,demasy@ipgp.fr');
+    $sendToEmail = array('web' => 'cdd.stepup@ens.psl.eu')#,teyssendier@ipgp.fr,leo.petit@ens.fr,sahmedma@lpnhe.in2p3.fr,laag@ipgp.fr,demasy@ipgp.fr');
 
     $sendToButton = array('web' => 'Web');
 
@@ -20,7 +20,7 @@ if(!empty($_SESSION))
 	    $to = $sendToEmail[$_POST['receiver']];
 	    $subject = "New message from " . $email;
 	    $message .= htmlspecialchars(stripslashes(utf8_decode($_POST['mail'])));
-	    $header = "From:noreply@cdd2020.com";
+	    $header = "From:noreply@cdd2022.com";
 
         $retval = mail ($to, $subject, $message, $header);
         if($retval == true)
@@ -52,7 +52,7 @@ if(!empty($_SESSION))
        	$to = implode(',', $emailList);
 	    $subject = "CDD News";
 	    $message .= $_POST['mail'];
-	    $header = "From:noreply@cdd2020.com";
+	    $header = "From:noreply@cdd2022.com";
 
         $retval = mail ($to, $subject, $message, $header);
         if($retval == true)
