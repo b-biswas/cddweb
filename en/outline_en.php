@@ -3,7 +3,7 @@
 Wednesday 13th of April – Micro
 </h2>
 9h30	- Breakfast <br>
-10h 	- <strong>François Vannucci (LPNHE), “From the electron to the Higgs boson” – Amphitheatre <br>
+10h 	- <strong>François Vannucci</strong> (LPNHE), “From the electron to the Higgs boson” – Amphitheatre <br>
 <br>
 <h3>
 10h30 	- 12h30 Poster session - Hallway
