@@ -4,6 +4,10 @@
 		<a class="imagea" href="https://ed560.ed.univ-paris-diderot.fr/en/the-doctoral-school/" target="_blank">
 			<img src="Images/logos/logoED560.png" width=100px alt="ED560"/>
 		</a>
+		</br>
+		<a class="imagea" href="https://irfu.cea.fr/" target="_blank">
+			<img src="Images/logos/logoCEA.png" width=100px alt="IFRU"/>
+		</a>
 		<a class="imagea" href="https://u-paris.fr/en/" target="_blank">
 			<img src="Images/logos/logoUP.png" width=100px alt="UP"/>
 		</a>
@@ -35,9 +39,7 @@
 		<a class="imagea" href="https://www.universite-paris-saclay.fr/en/recherche/laboratoire/service-dastrophysique-sap-laboratoire-aim" target="_blank">
 			<img src="Images/logos/logoAIM.png" width=100px alt="AIM"/>
 		</a>
-		<a class="imagea" href="https://irfu.cea.fr/" target="_blank">
-			<img src="Images/logos/logoCEA.png" width=100px alt="IFRU"/>
-		</a>
+		
 	</figure>
 	
 <?php
