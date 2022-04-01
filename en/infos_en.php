@@ -40,33 +40,53 @@
     Once you signed in, you will be able to <strong>submit</strong> your abstract. Please, use a <strong>PDF</strong> file.
 </p>-->
 
+<h3 class="major">TALKS</h3>
+
+<p>
+    <ul>
+        <li>
+        10-15 minutes long (in any case no more than 15 minutes !).
+        </li>
+        <li>
+        slides in pdf format have to be send to gendre@ipgp.fr at the latest the day before the session.
+        </li>
+        <li>
+        A computer with pdf reader and LibreOffice will be available to display presentations.
+        </li>
+        <li>
+        Presenters can their own computer instead if they wish but it has to have an HDMI port, we cannot provide adapters.
+        </li>		
+    </ul>
+</p>
 
 <h3 class="major">POSTER</h3>
 
-<p>
-    Language : <strong>English only</strong><br>
-    Format : A0 : 1189 x 840 mm portrait format in preference
-</p>
+
 
 <!--<p>
     Please<strong> be at IPGP between 10 and 11 am</strong> the day of your session to hang your poster. Posters are to be printed in your respective laboratories.
 </p> -->
 
-<h4>Some advice for a scientific poster:</h4>
 
 <p>
     <ul>
         <li>
-            If you use Adobe Illustrator, please vectorise all text (select all, Text Menu → Vectorize) before saving in PDF format.
+        Language : <strong>English only</strong><br>
         </li>
         <li>
-            If your file size is above 75 Mo, it is possible to reduce it without loosing quality with Acrobat Professional (Documents → Reduce file size).
+            Please arrive a bit early so you have time to install your poster before the session starts.
+        </li>
+        <li>
+            We cannot print your poster, you should print it on your own.
+        </li>
+        <li>
+            Your poster should be at most 1m wide.
         </li>
         <li>
             Please favour one sans-serif font (e.g. Helvetica, Arial) with its different styles (e.g. bold, italic) to have better readability.
-        </li>
+        </li>		
         <li>
             The poster must be clearly readable at a distance of 2m (exclude text bellow 18pt).
-        </li>		
+        </li>
     </ul>
 </p>
