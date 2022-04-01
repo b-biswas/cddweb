@@ -36,7 +36,7 @@
 			<img src="Images/logos/logoAIM.png" width=100px alt="AIM"/>
 		</a>
 		<a class="imagea" href="https://irfu.cea.fr/" target="_blank">
-			<img src="Images/logos/logoCEA.png" width=100px alt="IFRU-CEA"/>
+			<img src="Images/logos/logoCEA.png" width=100px alt="IFRU"/>
 		</a>
 	</figure>
 	
