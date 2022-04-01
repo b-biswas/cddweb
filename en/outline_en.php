@@ -4,6 +4,7 @@ Wednesday 13th of April – Micro
 </h2>
 9h30	- Breakfast <br>
 10h 	- François Vannucci (LPNHE), “From the electron to the Higgs boson” – Amphitheatre <br>
+<br>
 <h3>
 10h30 	- 12h30 Poster session - Hallway
 </h3>
@@ -40,7 +41,10 @@ Xiaoquan Qin, “Geochemistry of trace metals associated with Fe-Mn nodules (FMN
 profiles in China” <br>
 Tri Dung Nguyen, “Photometric modeling for the characterization of planetary surfaces”
 Runa van Tent, <br>
-14h – 17h Presentations – room Outremer <br>
+<br>
+<h3>
+14h – 17h Presentations – room Outremer
+</h3>
 Emilie Pirot, “Exploring Greenland seismicity with Machine Learning” <br>
 Alice Dupiau, “Modeling spectral and directional soil reflectance in the solar domain (400-2500 nm) 
 as a function of moisture content” <br>
@@ -52,9 +56,9 @@ ongoing Seismo-Volcanic Crisis” <br>
 Raphaël Bajou, “Assessing rock strength distribution in lava dome with muon tomography” <br>
 Marie Vulliet, “Erosional dynamics of a river driven by groundwater seepage” <br>
 <br>
-<h3>
+<h2>
 Thursday 14th of April – Macro
-</h3>
+</h2>
 9h30 – Breakfast <br>
 10h – Sara Maluebre (LPNHE) – <br>
 <br>
@@ -89,7 +93,10 @@ Baptiste Jost, “Novel method for joint systematic correction and foreground cl
 application to the estimation of cosmic birefringence in Simons Observatory.”<br>
 15h15 – Break <br>
 Guest session – PhD candidates from GRNE doctoral school <br>
-14h – 17h Presentations – room Outremer <br>
+<br>
+<h3>
+14h – 17h Presentations – room Outremer
+</h3>
 Boris Maletckii, “The Near Real Time Analysis of Ionospheric Disturbances in a near field by GNSS
 data” <br>
 Marie Bouih, “Deep mass redistribution prior to the Maule earthquake revealed by GRACE satellite 
@@ -105,9 +112,9 @@ fields: Implication for geodynamics in the Comoros”<br>
 Soumya Bohidar, “Seismic constraints on hydrothermal circulation and magmato-tectonic 
 interactions beneath Lucky Strike volcano, Mid-Atlantic Ridge (MAR)”<br>
 <br>
-<h3>
+<h2>
 Friday 15th of April – Micro to macro
-</h3>
+</h2>
 9h30 – Breakfast <br>
 10h – Samuel Abiven (ENS), “Carbon cycle in terrestrial ecosystems across scales - why scaling rarely 
 works” – Amphitheatre <br>
@@ -152,7 +159,10 @@ Linru Fang, “Half-life and initial Solar System abundance of 146Sm determined 
 andesitic meteorite”<br>
 Julie Rode, “DarkSide-50: Characterisation of the LAr ionization response in the keV regime”<br>
 Ssu-Ting Lai, “Time-lapse rock deformation monitoring using waveform inversion”<br>
-14h – 17h Presentations – room Outremer<br>
+<br>
+<h3>
+14h – 17h Presentations – room Outremer
+</h3>
 Maël Es-sayeh, “Updated radiative transfer model for titan: validation on vims-cassini observations 
 of the huygens landing site and application to the analysis of the dragonfly landing area”<br>
 Ting Tan, “Detection of Baryon Acoustic Oscillations using Lyman-α Forests in DESI”<br>
