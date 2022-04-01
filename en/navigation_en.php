@@ -36,7 +36,7 @@
 					echo '<li> <a href=./index.php?page=program&lang=en>Program</a> </li>';
 				    echo '<li> <a href=./index.php?page=schedule&lang=en>Schedule</a> </li>';
 					echo '<li> <a href=./index.php?page=access&lang=en>Access</a> </li>';
-					#echo '<li> <a href=./index.php?page=contact&lang=en>Contact</a> </li>';
+					echo '<li> <a href=./index.php?page=contact&lang=en>Contact</a> </li>';
 				}
 				else
 				{
@@ -44,7 +44,7 @@
 					echo '<li> <a href=./index.php?page=program>Program</a> </li>';
 				    echo '<li> <a href=./index.php?page=schedule>Schedule</a> </li>';
 					echo '<li> <a href=./index.php?page=access>Access</a> </li>';
-					#echo '<li> <a href=./index.php?page=contact>Contact</a> </li>';	
+					echo '<li> <a href=./index.php?page=contact>Contact</a> </li>';	
 				}
 			?>
 		</ul>
