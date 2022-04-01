@@ -42,41 +42,37 @@
 
 <h3 class="major">TALKS</h3>
 
-
-<h4>Some advice for a scientific poster:</h4>
-
 <p>
     <ul>
         <li>
-        10-15 minutes long (in any case no more than 15 minutes !)
+        10-15 minutes long (in any case no more than 15 minutes !).
         </li>
         <li>
-        slides in pdf format have to be send to gendre@ipgp.fr at the latest the day before the session,
+        slides in pdf format have to be send to gendre@ipgp.fr at the latest the day before the session.
         </li>
         <li>
-        A computer with pdf reader and LibreOffice will be available to display presentations,
+        A computer with pdf reader and LibreOffice will be available to display presentations.
         </li>
         <li>
-        Presenters with their own computer instead if they wish but it has to have an HDMI port, we cannot provide adapters.
+        Presenters can their own computer instead if they wish but it has to have an HDMI port, we cannot provide adapters.
         </li>		
     </ul>
 </p>
 
 <h3 class="major">POSTER</h3>
 
-<p>
-    Language : <strong>English only</strong><br>
-    Format : A0 : 1189 x 840 mm portrait format in preference
-</p>
+
 
 <!--<p>
     Please<strong> be at IPGP between 10 and 11 am</strong> the day of your session to hang your poster. Posters are to be printed in your respective laboratories.
 </p> -->
 
-<h4>points to note for poster:</h4>
 
 <p>
     <ul>
+        <li>
+        Language : <strong>English only</strong><br>
+        </li>
         <li>
             Please arrive a bit early so you have time to install your poster before the session starts.
         </li>
