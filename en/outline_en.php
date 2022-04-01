@@ -1,10 +1,12 @@
 <p>
-<h3>
+<h2>
 Wednesday 13th of April – Micro
-</h3>
+</h2>
 9h30	- Breakfast <br>
 10h 	- François Vannucci (LPNHE), “From the electron to the Higgs boson” – Amphitheatre <br>
-10h30 	- 12h30 Poster session - Hallway <br>
+<h3>
+10h30 	- 12h30 Poster session - Hallway
+</h3>
 Gang Lin, “A new pore pressure measurement device for rock in the laboratory” <br>
 Edwan Preau, “Holography and Extreme Phases of Matter” <br>
 Juliette Dupeyron, “Evolution of Fe isotope composition in sedimentary pyrite from Archean to 
@@ -26,7 +28,9 @@ Augustin Thomas, “Tidal oscillations in boreholes reveal hydrodynamic as well 
 of aquifers” <br>
 Haoxuan Sun, “Metal-silicate silicon isotopic fractionation” <br>
 <br>
-14h – 17h Presentations – Amphitheatre<br>
+<h3>
+14h – 17h Presentations – Amphitheatre
+</h3>
 Théo Briolet, “Experimental study of microstructural controls on the weathering of carbonate rocks” <br>
 Kun Zheng, “Selective leaching of indium from end-of-life LCD panels by desferrioxamine E”<br>
 Jani Kastikainen, “Investigations of quantum critical systems”<br>
@@ -47,13 +51,16 @@ Angèle Laurent, “Source Characterisation of the Very Long Period Earthquakes 
 ongoing Seismo-Volcanic Crisis” <br>
 Raphaël Bajou, “Assessing rock strength distribution in lava dome with muon tomography” <br>
 Marie Vulliet, “Erosional dynamics of a river driven by groundwater seepage” <br>
-
+<br>
 <h3>
 Thursday 14th of April – Macro
 </h3>
 9h30 – Breakfast <br>
 10h – Sara Maluebre (LPNHE) – <br>
+<br>
+<h3>
 10h30 – 12h30 Poster session - Hallway <br>
+</h3>
 Anaïs Rusquet, “Volcanism in the Comoros Archipelago : New K-Ar ages and geochemical data” <br>
 Léna Arthur, “Numerical study of accretion flows in a supermassive black hole binary system during 
 merger” <br>
@@ -97,14 +104,17 @@ Pierre Boymond, “Volcano-tectonic interactions within two recently discovered 
 fields: Implication for geodynamics in the Comoros”<br>
 Soumya Bohidar, “Seismic constraints on hydrothermal circulation and magmato-tectonic 
 interactions beneath Lucky Strike volcano, Mid-Atlantic Ridge (MAR)”<br>
-
+<br>
 <h3>
 Friday 15th of April – Micro to macro
 </h3>
 9h30 – Breakfast <br>
 10h – Samuel Abiven (ENS), “Carbon cycle in terrestrial ecosystems across scales - why scaling rarely 
 works” – Amphitheatre <br>
+<br>
+<h3>
 10h30 – 12h30 Poster session - Hallway <br>
+</h3>
 Mathias Regnier, “Bolometric Interferometry and QUBIC: asolution to Galactic foreground 
 complexity for primordial B-modes search”<br>
 Arianna Rizzieri, “Component separation for the polarized microwave sky in view of next-
@@ -127,7 +137,10 @@ Soufrière de Guadeloupe”<br>
 Maylis de La Serve, “Are there detectable common aperiodic displacements at ITRF co-location 
 sites?”<br>
 Sophie Coural, “Analysis of atmospheric nanoparticles by plane trees”<br>
+<br>
+<h3>
 14h – 17h Presentations – Amphitheatre<br>
+</h3>
 Konstantin Leyde, “Current and future constraints on cosmology and modified gravitational wave 
 friction from binary black holes”<br>
 Gaspard Farge, “From the pore scale to the subduction scale -- how transient fluid processes shape 
