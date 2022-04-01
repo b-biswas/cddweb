@@ -35,6 +35,9 @@
 		<a class="imagea" href="https://www.universite-paris-saclay.fr/en/recherche/laboratoire/service-dastrophysique-sap-laboratoire-aim" target="_blank">
 			<img src="Images/logos/logoAIM.png" width=100px alt="AIM"/>
 		</a>
+		<a class="imagea" href="https://irfu.cea.fr/" target="_blank">
+			<img src="Images/logos/logoCEA.png" width=100px alt="IFRU-CEA"/>
+		</a>
 	</figure>
 	
 <?php
