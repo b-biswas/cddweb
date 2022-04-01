@@ -95,7 +95,7 @@ stars”<br>
 <strong>Baptiste Jost</strong>, “Novel method for joint systematic correction and foreground cleaning and its 
 application to the estimation of cosmic birefringence in Simons Observatory.”<br>
 15h15 – Break <br>
-<strong>Guest session – PhD candidates from GRNE doctoral school <br>
+<strong>Guest session – PhD candidates from GRNE doctoral school</strong> <br>
 <br>
 <h3>
 14h – 17h Presentations – room Outremer
