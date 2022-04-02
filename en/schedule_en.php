@@ -80,7 +80,7 @@ Earthquake” <br>
 FO records” <br>
 <strong>Laëtitia Pantobe</strong>, “Monitoring shallow volcanic seismicity at La Soufrière de Guadeloupe : new 
 constraints from relative location and detection of a cyclic swarm activity” <br>
-<strong>Christos Ntinos</strong>, “Global infrared mosaics of Enceladus based on new navigation calculations”
+<strong>Christos Ntinos</strong>, “Global infrared mosaics of Enceladus based on new navigation calculations”<br>
 <strong>Marouchka Froment</strong>, “The seismic source of meteorite impacts” <br>
 <strong>Arthur Delorme</strong>, “Learning methods for the calculation of deformation maps from optical images” <br>
 <strong>Mario Fernandez</strong>, “A benchmark study of deep learning methods for seismic interpolation” <br>
