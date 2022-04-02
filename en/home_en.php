@@ -1,8 +1,7 @@
 <h2>A few words about the PhD Student Conference</h2>
 <p>
 Since 1993, <strong>the STEP'UP doctoral school has organized the “Congrès Des Doctorants” (CDD)</strong>, 
-a yearly conference to promote the research of PhD students from the Institut de Physique du Globe de Paris (IPGP), 
-the University Paris Diderot (UPD), the École Normale Supérieure (ENS) and the University Pierre et Marie Curie (UPMC). 
+a yearly conference to promote the research of PhD students from the STEP'UP Doctoral school. 
 The congress is organised by the 1st year PhD students from both 
 components of the doctoral school (Environment Sciences and the Physics of the Universe) and will feature vulgarization talks
 from reseachers along with posters and presentations from Ph.D. students of STEP'UP and other invited students.
