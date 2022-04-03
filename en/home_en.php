@@ -8,10 +8,12 @@ from reseachers along with posters and presentations from Ph.D. students of STEP
 The goal of this conference is to establish links between students, researchers and professionals in the geosciences and physics of the universe fields. 
 The <strong>2022 edition, 'From Micro to Macro', will be held at IPGP between 13 and 15 April.</strong></p>
 <p>
-For participants, there will also be awards for the best poster!
+For participants, there will also be awards for the best poster!<br>
 A vote for the best poster will be held during the three days of the CDD. 
 The winner will be announced on the last day and will receive a special prize!
-More details on the poster election are provided in the Infos page.
+More details on the poster election are provided in the 
+<a href="http://cdd.ens.fr/index.php?page=infos">Infos</a>
+page.
 </p>
 <h3>
 3 days schedule
