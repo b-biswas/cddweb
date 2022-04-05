@@ -3,7 +3,7 @@
 Wednesday 13th of April – Micro
 </h2>
 9h30	- Breakfast <br>
-10h 	- <strong>François Vannucci</strong> (LPNHE), “From the electron to the Higgs boson” – Amphitheatre <br>
+10h 	- <strong>François Vannucci</strong> (APC), “From the electron to the Higgs boson” – Amphitheatre <br>
 <br>
 <h3>
 10h30 	- 12h30 Poster session - Hallway
@@ -40,7 +40,7 @@ of aquifers” <br>
 <strong>Xiaoquan Qin</strong>, “Geochemistry of trace metals associated with Fe-Mn nodules (FMN) of red soil 
 profiles in China” <br>
 <strong>Tri Dung Nguyen</strong>, “Photometric modeling for the characterization of planetary surfaces”
-Runa van Tent, <br>
+Runa van Tent, “Global mantle density tomography using Earth’s free oscillations”<br>
 <br>
 <h3>
 14h – 17h Presentations – room Outremer
@@ -60,7 +60,7 @@ ongoing Seismo-Volcanic Crisis” <br>
 Thursday 14th of April – Macro
 </h2>
 9h30 – Breakfast <br>
-10h – <strong>Sara Maluebre (LPNHE)</strong> – <br>
+10h – <strong>Sara Maluebre</strong> (LPNHE), General Relativity and Cosmology<br>
 <br>
 <h3>
 10h30 – 12h30 Poster session - Hallway <br>
@@ -84,7 +84,8 @@ constraints from relative location and detection of a cyclic swarm activity” <
 <strong>Marouchka Froment</strong>, “The seismic source of meteorite impacts” <br>
 <strong>Arthur Delorme</strong>, “Learning methods for the calculation of deformation maps from optical images” <br>
 <strong>Mario Fernandez</strong>, “A benchmark study of deep learning methods for seismic interpolation” <br>
-<br>
+<strong>Wanbo Xiao</strong>, “First attempt to dynamically model the InSight Lander vibrations”
+<strong>Jing Shi</strong>, “Re-investigate the Moon deep interior”<br>
 <h3>
 	14h – 17h Presentations – Amphitheatre
 </h3>
@@ -96,6 +97,11 @@ stars”<br>
 application to the estimation of cosmic birefringence in Simons Observatory.”<br>
 15h15 – Break <br>
 <strong>Guest session – PhD candidates from GRNE doctoral school</strong> <br>
+<strong>Igor Rzeplinski</strong>, “Xenon chemistry at high pressure, geochemistry concerns”
+<strong>Antoine Collet</strong>, “Automated history matching in reactive transport. Application to the uranium in-
+situ recovery”
+
+
 <br>
 <h3>
 14h – 17h Presentations – room Outremer
@@ -176,3 +182,6 @@ explosive eruptions”<br>
 <strong>Souradeep Mahato</strong>, “Strain localization in mid-ocean ridge detachment faults: multiscale study of a 
 nearly amagmatic endmember case (64°40’E Southwest Indian Ridge)”<br>
 </p>
+
+
+<strong>17h15 Concert – Terrasse de l’IPGP</strong>
