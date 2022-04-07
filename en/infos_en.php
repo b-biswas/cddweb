@@ -112,7 +112,7 @@
         </li>
         <li>
         When? Each day’s voting session (13th-14th-15th April) will be open from 10h00 to 12h30 and the final vote 
-        (15th April) will be open from 14h00 to 17h00. The winner of the best poster will be announced at 17h15 
+        (15th April) will be open from 14h00 to 17h00. The winner of the best poster will be announced at 17h00 
         in the Médiathèque.
         </li>
     </ul>
