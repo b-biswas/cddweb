@@ -186,6 +186,10 @@ explosive eruptions”<br>
 nearly amagmatic endmember case (64°40’E Southwest Indian Ridge)”<br>
 <br>
 <h3>
+17h - Best poster award- Library
+</h3>
+<br>
+<h3>
 17h15 Concert – Terrasse de l’IPGP
 </h3>
 </p>
