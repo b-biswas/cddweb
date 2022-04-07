@@ -40,7 +40,7 @@ of aquifers” <br>
 <strong>Xiaoquan Qin</strong>, “Geochemistry of trace metals associated with Fe-Mn nodules (FMN) of red soil 
 profiles in China” <br>
 <strong>Tri Dung Nguyen</strong>, “Photometric modeling for the characterization of planetary surfaces” <br>
-<strong>Runa van Tent,“Global mantle density tomography using Earth’s free oscillations” <br>
+<strong>Runa van Tent</strong>,“Global mantle density tomography using Earth’s free oscillations” <br>
 <br>
 <h3>
 14h – 17h Presentations – room Outremer
