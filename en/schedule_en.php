@@ -180,7 +180,7 @@ of the huygens landing site and application to the analysis of the dragonfly lan
 <strong>Ting Tan</strong>, “Detection of Baryon Acoustic Oscillations using Lyman-α Forests in DESI”<br>
 <strong>Lea Ostorero</strong>, “Correlating diffusive timescales in crystals with monitoring signals leading to 
 explosive eruptions”<br>
-15h15 – Break <br>
+15h05 – Break <br>
 <strong>Sabrina Menina</strong>, “Earth-Moon-Mars coda attenuation comparison”<br>
 <strong>Souradeep Mahato</strong>, “Strain localization in mid-ocean ridge detachment faults: multiscale study of a 
 nearly amagmatic endmember case (64°40’E Southwest Indian Ridge)”<br>
