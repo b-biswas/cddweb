@@ -48,13 +48,13 @@
         10-15 minutes long (in any case no more than 15 minutes !).
         </li>
         <li>
-        slides in pdf format have to be send to gendre@ipgp.fr at the latest the day before the session.
+        slides in pdf format have to be sent to gendre@ipgp.fr at the latest the day before the session.
         </li>
         <li>
         A computer with pdf reader and LibreOffice will be available to display presentations.
         </li>
         <li>
-        Presenters can their own computer instead if they wish but it has to have an HDMI port, we cannot provide adapters.
+        Speakers can use their own computer instead if they wish but it has to have an HDMI port, we cannot provide adapters.
         </li>		
     </ul>
 </p>
@@ -87,6 +87,33 @@
         </li>		
         <li>
             The poster must be clearly readable at a distance of 2m (exclude text bellow 18pt).
+        </li>
+    </ul>
+</p>
+
+<h3>Best poster election</h3>
+
+<p>
+    <ul>
+        <li>
+        Rules? Each day, people are invited to vote for a poster. 
+        The poster with the highest number of votes will be taken on for last day final vote. 
+        The three retained posters (i.e. the best poster of each day) will be further displayed during the afternoon 
+        of the 15th April in the Médiathèque and submitted to a final vote. After what, 
+        the winner will be given a prize.
+        </li>
+        <li>
+        How? QR codes will be displayed in the poster hall. 
+        To vote for a poster, you will need to scan the QR code and select the poster among the list
+        </li>
+        <li>
+        Who? Any person attending the CDD can vote for one poster per day (except on the 15th where two voting 
+        sessions will be organized).
+        </li>
+        <li>
+        When? Each day’s voting session (13th-14th-15th April) will be open from 10h00 to 12h30 and the final vote 
+        (15th April) will be open from 14h00 to 17h00. The winner of the best poster will be announced at 17h15 
+        in the Médiathèque.
         </li>
     </ul>
 </p>
