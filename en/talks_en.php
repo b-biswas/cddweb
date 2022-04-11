@@ -8,31 +8,32 @@ Wednesday 13th of April – Micro
 <h3>
 10h30 	- 12h30 Poster session - Hallway
 </h3>
-<strong>Gang Lin</strong>, “A new pore pressure measurement device for rock in the laboratory” <br>
+<strong>Gang Lin</strong>, “A new pore pressure measurement device for rock in the laboratory. Keywords : Permeability, Pore pressure, Pressure difference, Linear relationship ” <br>
 <strong>Edwan Preau</strong>, “Holography and Extreme Phases of Matter” <br>
 <strong>Juliette Dupeyron</strong>, “Evolution of Fe isotope composition in sedimentary pyrite from Archean to 
-Paleoproterozoic: new perspective from microanalyses” <br>
+Paleoproterozoic: new perspective from microanalyses. Keywords : Pyrite, Archean, Fe isotope composition, SIMS” <br>
 <strong>Etienne Le Glas</strong>, “Chlorine isotopes in La Soufrière de Guadeloupe (FWI) fumaroles trace HCl 
-scrubbing at shallow depth” <br>
-<strong>Lucile Mellet</strong>, “Hyper-Kamiokande time synchronization system” <br>
+scrubbing at shallow depth. Keywords : Isotope geoschemistry, volcanic gases, volcanology” <br>
+<strong>Lucile Mellet</strong>, “Hyper-Kamiokande time synchronization system. Keywords : Neutrinos, cerenkov detector, atomic clocks, GNSS” <br>
 <strong>Salomé Pannefieu</strong>, “Sodium and magnesium in aluminosilicate melts and glasses: do they get 
-along?” <br>
-<strong>Adrien Donatini</strong>, “Fast and Cerium: A study of redox kinetics in aluminosilicate melts” <br>
+along? Keywords : Aluminosilicates, Melts, Glass, Viscosity, Raman spectroscopy, Structure” <br>
+<strong>Adrien Donatini</strong>, “Fast and Cerium: A study of redox kinetics in aluminosilicate melts. Keywords : In situ measurement, Redox kinetics” <br>
 <strong>Robin Bonnet</strong>, “Biochemical Degradation Mechanisms of Cementitious Matrices: Application to 
-Asbestos Cement Wastes” <br>
+Asbestos Cement Wastes. Keywords : Concrete, Waste Treatement, Chrysotile, Organic Acids, Lactobacillus” <br>
 <strong>Martin Colledge</strong>, “Influence of Small Sinusoidal Stress Perturbations on Microseismic Triggering at 
-the Laboratory Scale” <br>
+the Laboratory Scale. Keywords : Seismology, Experimental, Rock Mechanics” <br>
 <strong>Amicie Delahaie</strong>, “Rock-Eval®-RMQS: Studying the Characteristics of Soil Organic Matter in 
-France with Rock-Eval® 6 Thermal Analysis to Evaluate its Stability” <br>
+France with Rock-Eval® 6 Thermal Analysis to Evaluate its Stability. Keywords : Biogeochemistry, Organic carbon, Biogeochemical stability, Thermal Analysis” <br>
 <strong>Augustin Thomas</strong>, “Tidal oscillations in boreholes reveal hydrodynamic as well as elastic properties 
-of aquifers” <br>
-<strong>Haoxuan Sun</strong>, “Metal-silicate silicon isotopic fractionation” <br>
-<strong>Valentina Raskina</strong>, “Research and Development of the High Granularity Timing Detector for ATLAS experiment” <br>
+of aquifers. Keywords : Hydrogeology, Poroelasticity, Tides” <br>
+<strong>Haoxuan Sun</strong>, “Metal-silicate silicon isotopic fractionation. Keywords : Cosmochemistry” <br>
+<strong>Valentina Raskina</strong>, “Research and Development of the High Granularity Timing Detector for ATLAS experiment. Keywords : Physics, LHC, CERN, Detector, LGAD” <br>
 <br>
 <h3>
 14h – 17h Presentations – Amphitheatre
 </h3>
 <strong>Théo Briolet</strong>, “Experimental study of microstructural controls on the weathering of carbonate rocks” <br>
+Abstract : Interactions between water and carbonate rocks are involved in various issues such as CO2 storage, karst development and coastal weathering. A better understanding of the influence of pore structure on the weathering of carbonate rocks remains a key issue. An integrated multiscale experimental workflow was thus developed to study microstructural controls on the dissolution processes. Two different carbonate formations have been considered in this study. Although their mineralogy is similar, their microstructure is significantly different. Coreflooding experiments where CO2-saturated water was injected at a flowrate of 140 cm3/h for 5 days were carried out on 80-mm and 100-mm long samples. Chemical concentrations of dissolved species in the effluents were determined and thermodynamic modelling was used to estimate the outlet fluid saturation indexes. Samples petrophysical and petroacoustic properties were measured before and after coreflooding experiments. These measurements were completed by scanner and microscanner imaging, SEM observation and BET analysis. The dissolution patterns of Lavoux limestone are dominated by the development of localized dissolution channels ("wormholes"). Although the dissolution of Euville limestone appears more diffuse, microtomography has highlighted a preferential dissolution localized in specific more microporous areas. Microstructural characterizations based on BET analysis and SEM observations, combined with mini-coreflooding experiments performed on limestone powder, show that the higher dissolution kinetics of Lavoux limestone is mainly related to a larger specific surface area leading to a higher reactivity. Moreover, BET measurements revealed similar specific surface areas for the bulk rock and powder samples suggesting that most of the specific surface area is held at the microporous grain scale.<br>
 <strong>Kun Zheng</strong>, “Selective leaching of indium from end-of-life LCD panels by desferrioxamine E”<br>
 <strong>Jani Kastikainen</strong>, “Investigations of quantum critical systems”<br>
 15h05 – Break <br>
@@ -111,7 +112,7 @@ from the ground to the atmosphere and their consequences during global warming�
 data” <br>
 <strong>Marie Bouih</strong>, “Deep mass redistribution prior to the Maule earthquake revealed by GRACE satellite 
 gravity”<br>
-<strong>Quang Nam Dam</strong>, “Noise propagation in LISA data and model validation with LISANode simulator”
+<strong>Quang Nam Dam</strong>, “Noise propagation in LISA data and model validation with LISANode simulator”<br>
 15h05 – Break <br>
 <strong>Nirmit Dhabaria</strong>, “An insight into the nature of a 70 Ma old crust and the Moho transition zone 
 across the Saint Paul fracture zone near 18ᵒ W in the Equatorial Atlantic Ocean.” <br>
