@@ -1,10 +1,10 @@
 <?php
 	if(array_key_exists('lang', $_GET))
 	{
-		include($_GET['lang'].'/schedule_'.$_GET['lang'].'.php');
+		include($_GET['lang'].'/talks_'.$_GET['lang'].'.php');
 	}
 	else
 	{
-		include("en/schedule_en.php");
+		include("en/talks_en.php");
 	}
 ?>
